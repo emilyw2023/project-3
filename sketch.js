@@ -9,3 +9,5 @@ function draw() {
   circle(width/2, height/2, 100);
   circle(mouseX, mouseY, 150);
 }
+
+fill(radom(255), random(255), random(255));
